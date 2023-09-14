@@ -4,11 +4,9 @@ This is a simple frontend project that allows users to dynamically change the ba
 
 ## Features
 
-- Hidden Color Changer Button: The color changer button is initially hidden with an opacity set to 0, making it discreet and unobtrusive.
+- Hidden Color Changer Button: The color changer button is initially hidden with an opacity set to 0, and is positioned at the center making it discreet and unobtrusive.
 
 - Interactive: When users click the hidden button labeled "Click Me," it triggers the appearance of a color picker interface.
-
-- Color Picker: Users can choose their desired color from the color picker interface.
 
 - Dynamic Background Color: As the user selects a color, the background color of the entire webpage dynamically changes to match the chosen color.
 
