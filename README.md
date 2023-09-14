@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="asset/header.png?raw=true" width="800" heigth="800"/>
+  <img src="/HTML Background/asset/header.png?raw=true" width="1000" heigth="800"/>
 </div>
 
 # Simple Dynamic HTML Background Color Changer 
