@@ -1,4 +1,4 @@
-# Dynamic Background Color Changer Frontend
+# Simple Dynamic HTML Background Color Changer 
 
 This is a simple frontend project that allows users to dynamically change the background color of a web page. It features a hidden color changer button that becomes visible upon interaction. Users can select a color from a color picker interface, and the webpage's background color will change accordingly.
 
